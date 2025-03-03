@@ -1,7 +1,7 @@
 import random
-gs=random.randint(0,10)
+gs=random.randint((0,10))
 print(gs)
-fb=random.randint(0,10)
+fb=random.randint((0,10))
 print(fb)
 
 if gs>fb:
